@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc9f56d5-a781-43e7-acc1-d51f67d33528" name="Default Changelist" comment="change header add links" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/flowers-new" />
+  </component>
+  <component name="ProjectId" id="1y00J2NJgpvs8O3OkoKuiy1YKOI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\Programs\WebStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programs\flowers-main\client\src" />
+      <recent name="D:\Programs\flowers-main\client\src\Pages" />
+      <recent name="D:\it\brander\flowers\Client\src\Pages" />
+      <recent name="D:\it\brander\flowers\Client\src\components" />
+      <recent name="D:\it\brander\flowers\Client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/client/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/client" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/client/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HIDE_INHERITED_FROM_OBJECT" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc9f56d5-a781-43e7-acc1-d51f67d33528" name="Default Changelist" comment="" />
+      <created>1631373123027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631373123027</updated>
+      <workItem from="1631373129628" duration="8587000" />
+      <workItem from="1631522303260" duration="9923000" />
+      <workItem from="1631610601780" duration="12294000" />
+      <workItem from="1631985317969" duration="12104000" />
+      <workItem from="1632004030929" duration="872000" />
+      <workItem from="1632129453047" duration="4678000" />
+      <workItem from="1632137990920" duration="351000" />
+      <workItem from="1632143221663" duration="845000" />
+      <workItem from="1632146022998" duration="2250000" />
+      <workItem from="1632209412450" duration="9482000" />
+      <workItem from="1632322447886" duration="718000" />
+      <workItem from="1632333777757" duration="41000" />
+      <workItem from="1632333819335" duration="894000" />
+      <workItem from="1632334875025" duration="309000" />
+      <workItem from="1632340163391" duration="9242000" />
+    </task>
+    <task id="LOCAL-00001" summary="change header add links">
+      <created>1632133383515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632133383515</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change header add links">
+      <created>1632133641296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632133641296</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change header add links">
+      <created>1632133902057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632133902057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="change header add links" />
+    <option name="LAST_COMMIT_MESSAGE" value="change header add links" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="220" key="FileChooserDialogImpl" timestamp="1632333816650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="220" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632333816650" />
+    <state x="740" y="318" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1632250634196" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1632341400631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632341400631" />
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1631997552452" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1632341400630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632341400630" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1631997552452" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1632341400630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632341400630" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1631997552452" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1632341400630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632341400630" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1631997552452" />
+    <state x="277" y="101" key="SettingsEditor" timestamp="1632333787959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="101" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1632333787959" />
+    <state x="552" y="280" key="Vcs.Push.Dialog.v2" timestamp="1632134063015">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="552" y="280" key="Vcs.Push.Dialog.v2/0.40.1920.1040@0.40.1920.1040" timestamp="1632134063015" />
+    <state x="736" y="294" key="VcsDiffUtil.ChangesDialog" timestamp="1632133087804">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="736" y="294" key="VcsDiffUtil.ChangesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1632133087804" />
+    <state x="100" y="143" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1631386930990">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="100" y="143" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1631386930990" />
+    <state x="290" y="97" width="549" height="635" key="find.popup" timestamp="1632342692185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="290" y="97" width="549" height="635" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1632342692185" />
+    <state x="363" y="163" width="585" height="801" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1631561692791" />
+    <state x="760" y="461" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1631996655047">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="760" y="461" key="git4idea.remote.GitConfigureRemotesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1631996655047" />
+    <state x="616" y="260" key="run.anything.popup" timestamp="1631622626913">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1631622626913" />
+    <state x="318" y="270" width="672" height="678" key="search.everywhere.popup" timestamp="1631561666650">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="318" y="270" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1631561666650" />
+  </component>
+</project>
